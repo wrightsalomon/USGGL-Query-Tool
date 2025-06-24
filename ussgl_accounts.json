@@ -1,0 +1,20 @@
+[
+  {
+    "account_number": "101000",
+    "title": "Fund Balance With Treasury",
+    "normal_balance": "Debit",
+    "definition": "This account is used to record the aggregate amount of funds on deposit with the Department of the Treasury that are available for expenditure by the entity."
+  },
+  {
+    "account_number": "211000",
+    "title": "Accounts Payable",
+    "normal_balance": "Credit",
+    "definition": "Accounts payable represent amounts owed by the entity for goods and services received but not yet paid for at the end of the accounting period."
+  },
+  {
+    "account_number": "310000",
+    "title": "Unexpended Appropriations",
+    "normal_balance": "Credit",
+    "definition": "This account represents appropriations that are legally available for obligation but not yet expended."
+  }
+]
